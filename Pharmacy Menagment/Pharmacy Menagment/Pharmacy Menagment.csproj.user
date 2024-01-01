@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AlertBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HelpFormDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadingScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrintDialogForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\AddNewMedicineItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\AddPurchaseItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\CreateCostumer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\CreateInvoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\DashboardItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\HelpFormChildren\AddnewCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\HelpFormChildren\AddNewSupplier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\HelpFormChildren\GetMedicineDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\HelpFormChildren\ListOfSupplier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\HelpFormChildren\ListUsers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\HelpFormChildren\UpdateStoct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\InoviceManage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\ItemChildren\ListInvocieItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\ItemChildren\ListItemMedicineDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\MedicineStockItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\RaportGenerate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsItem\SuppliersItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ViewReportPdf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

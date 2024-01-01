@@ -1,0 +1,181 @@
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Pharmacy Menagment.exe
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Pharmacy Menagment.deps.json
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Pharmacy Menagment.runtimeconfig.json
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Pharmacy Menagment.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Pharmacy Menagment.pdb
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Krypton.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.DashBoard.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.AssemblyInfo.cs
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.csproj.CopyComplete
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\refint\Pharmacy Menagment.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.pdb
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.genruntimeconfig.cache
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\ref\Pharmacy Menagment.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.DashboardItem.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.Properties.Resources.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Krypton.Toolkit.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.AddNewMedicineItem.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.AddPurchaseItem.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.ItemChildren.ListItemMedicineDetails.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.MedicineStockItem.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.SuppliersItem.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.CreateCostumer.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.CreateInvoice.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.ItemChildren.ListInvocieItem.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.HelpFormChildren.GetMedicineDetails.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.HelpFormDialog.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.HelpFormChildren.AddNewSupplier.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.LoadingScreen.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.HelpFormChildren.ListOfSupplier.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.HelpFormChildren.AddnewCustomer.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.HelpFormChildren.ListUsersItem.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.AlertBox.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.HelpFormChildren.UpdateStoct.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\PageList.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\SimpleDataGridViewPaging.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.LoginForm.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.RaportGenerate.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.PrintDialogForm.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Web.DataVisualization.Design.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Web.DataVisualization.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Adobe.DocumentServices.PDFTools.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\jose-jwt.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Polly.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\UriTemplate.Core.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Interop.Acrobat.dll
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.csproj.ResolveComReference.cache
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.ViewReportPdf.resources
+C:\Users\HP\source\repos\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.InoviceManage.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Pharmacy Menagment.exe
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Pharmacy Menagment.deps.json
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Pharmacy Menagment.runtimeconfig.json
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Pharmacy Menagment.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Pharmacy Menagment.pdb
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Adobe.DocumentServices.PDFTools.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\itextsharp.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\jose-jwt.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Krypton.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Krypton.Toolkit.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Web.DataVisualization.Design.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Web.DataVisualization.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.Design.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\PageList.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\Polly.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\RestSharp.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\SimpleDataGridViewPaging.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\UriTemplate.Core.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.csproj.AssemblyReference.cache
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.csproj.ResolveComReference.cache
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.AlertBox.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.DashBoard.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.HelpFormDialog.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.LoadingScreen.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.LoginForm.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.PrintDialogForm.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.Properties.Resources.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.AddNewMedicineItem.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.AddPurchaseItem.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.CreateCostumer.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.CreateInvoice.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.DashboardItem.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.HelpFormChildren.AddnewCustomer.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.HelpFormChildren.AddNewSupplier.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.HelpFormChildren.GetMedicineDetails.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.HelpFormChildren.ListOfSupplier.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.HelpFormChildren.ListUsersItem.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.HelpFormChildren.UpdateStoct.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.InoviceManage.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.ItemChildren.ListInvocieItem.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.ItemChildren.ListItemMedicineDetails.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.MedicineStockItem.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.RaportGenerate.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.UserControlsItem.SuppliersItem.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy_Menagment.ViewReportPdf.resources
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.csproj.GenerateResource.cache
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.AssemblyInfoInputs.cache
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.AssemblyInfo.cs
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.csproj.CoreCompileInputs.cache
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.csproj.CopyComplete
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\refint\Pharmacy Menagment.dll
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.pdb
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\Pharmacy Menagment.genruntimeconfig.cache
+D:\Downloads\Pharmacy Menagment\Pharmacy Menagment\Pharmacy Menagment\obj\Debug\net6.0-windows\ref\Pharmacy Menagment.dll
